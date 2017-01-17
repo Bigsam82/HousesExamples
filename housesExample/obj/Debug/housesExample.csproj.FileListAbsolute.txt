@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\housesExample\housesExample\bin\Debug\housesExample.exe.config
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\housesExample\housesExample\bin\Debug\housesExample.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\housesExample\housesExample\bin\Debug\housesExample.pdb
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\housesExample\housesExample\obj\Debug\housesExample.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\housesExample\housesExample\obj\Debug\housesExample.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\housesExample\housesExample\obj\Debug\housesExample.pdb

@@ -25,7 +25,20 @@ namespace housesExample
          //   Console.WriteLine("house two is: " + house2.CurrentColor());
 
             House house1 = new House("Green", 4, 1000, 3);
-            house1.DisplayHouseInfo();
+            House house2 = new House("blue", 700);
+            House house3 = new House();
+
+
+           // house1.DisplayHouseInfo();
+           // house2.DisplayHouseInfo();
+          //  house3.DisplayHouseInfo();
+
+
+            //house2.Paint("Yellow");
+            house2.DisplayHouseInfo();
+            house2.Name = "The Black House";
+
+            Console.WriteLine(house2.Name);
 
 
         }
